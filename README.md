@@ -1,10 +1,10 @@
 # D3-Challenge-Bonus - KAMRAN ABDULLAH - DUE: 08/29/2020
-In creating this new repository, I weas unable to name it 'D3-Challenge', since I already had a repository named 'd3-challenge' 
+### In creating this new repository, I weas unable to name it 'D3-Challenge', since I already had a repository named 'd3-challenge' 
 
 ![d3-challenge](Images/d3-challenge.JPG)
 
 
-Due to this, I named the repository 'D3-Challenge-Bonus'
+### Due to this, I named the repository 'D3-Challenge-Bonus'
 
 
 ![repo_name_error](Images/repo_name_error.JPG)
