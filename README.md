@@ -3,7 +3,9 @@ In creating this new repository, I weas unable to name it 'D3-Challenge', since 
 
 ![d3-challenge](Images/d3-challenge.JPG)
 
+
 Due to this, I named the repository 'D3-Challenge-Bonus'
+
 
 ![repo_name_error](Images/repo_name_error.JPG)
 
